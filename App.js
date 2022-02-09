@@ -94,7 +94,7 @@ const areaOrPerimeter = function(l , w) {
   if(l === w){
     return (l*w)
   }else{
-    return((6+10)*2)
+    return((l+w)*2)
   }
 };
 
